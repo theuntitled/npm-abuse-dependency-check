@@ -1,0 +1,12 @@
+{
+  "name": "npm-abuse-dependency-check",
+  "version": "1.0.0",
+  "description": "Some Fucker fucked with npm. This tool checks for the fucked packages.",
+  "scripts": {
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Josef Fazekas",
+  "license": "MIT"
+}
